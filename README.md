@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Vitaliy. I'm 32 y.o. and i live in Ukraine. 
+My name is Vitaliy. I live in Ukraine. 
 
 I have more than 7 years’ experience in IT sphere.
-Now I switched to front-end development and want to present my developments to you.
+Now I'm frontend developer and want to present my developments to you.
 
-This portfolio contains my first landing pages and a small Angular project.
+This portfolio contains my works like landing pages and a small Angular project.
 
 
 <!--
