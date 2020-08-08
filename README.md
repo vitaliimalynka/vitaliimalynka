@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Vitaliy. I'm 32 y.o. and i live in Ukraine. 
+
+I have more than 7 years’ experience in IT sphere.
+Now I switched to front-end development and want to present my developments to you.
+
+This portfolio contains my first landing pages and a small Angular project.
+
+
 <!--
 **vitaliimalynka/vitaliimalynka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
