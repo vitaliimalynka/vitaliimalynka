@@ -5,7 +5,7 @@ My name is Vitaliy. I live in Ukraine.
 I have more than 7 years’ experience in IT sphere.
 Now I'm frontend developer and want to present my developments to you.
 
-This portfolio contains my works like landing pages and a small Angular project.
+This portfolio contains my works like landing pages and a small Angular projects.
 
 
 <!--
