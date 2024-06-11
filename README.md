@@ -1,25 +1,12 @@
 ### Hi there 👋
 
-My name is Vitaliy. I live in Ukraine. 
+My name is Vitaliy. I'm an experienced Frontend Developer proficient in JavaScript and
+TypeScript. Skilled in Angular, React, and Node.js. Demonstrates ability to
+break down complex problems, work independently or in teams, and
+deliver high-quality solutions. Strong focus on problem-solving, learning
+new technologies, and driving results for clients and employers.
 
-I have more than 10 years’ experience in IT sphere.
-I have been working as a Frontend Developer for the last 4 years.
+📫 How to reach me:
 
-<!-- This portfolio does not include my work now. Updating... -->
-<!--This portfolio contains my works like landing pages and a small Angular projects.-->
-
-
-<!--
-**vitaliimalynka/vitaliimalynka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Vitalii_Malynka-0e76a8?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malynkavit/)
+[![Mail Badge](https://img.shields.io/badge/-vitalii.malynka%40gmail.com-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vitalii.malynka@gmail.com)
